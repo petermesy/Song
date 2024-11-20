@@ -1,0 +1,13 @@
+export const ADD_TO_CART="ADD_TO_CART";
+export const ADD_SONG="ADD_SONG";
+export const REMOVE_FROM_CART="REMOVE_FROM_CART";
+export const REMOVE_SONG="REMOVE_SONG";
+export const EMTY_CART="EMPTY_CART";
+export const EMPTY_SONG="EMPTY_SONG";
+export const PRODUCT_ACTION="PRODUCT_ACTION";
+export const SONG_ACTION="SONG_ACTION";
+export const SET_PRODUCT_LIST="SET_PRODUCT_LIST";
+export const SET_SONG_LIST="SET_SONG_LIST";
+export const SEARCH_PRODUCT="SEARCH_PRODUCT";
+export const PLAY_AUDIO="PLAY_AUDIO";
+export const STOP_AUDIO="STOP_AUDIO";

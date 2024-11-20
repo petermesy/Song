@@ -1,0 +1,14 @@
+.header{
+    color:white;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+}
+.ecom{
+    color: white;
+    margin: 20px;
+}
+.cart-div{
+    color: white;
+    float: left;
+}
